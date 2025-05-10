@@ -1,6 +1,7 @@
 # User Stories for Airbnb Clone Backend
 
-The following user stories are derived from the use case diagram, in the use-case-diagram/ folder, capturing the core interactions between users (Guest, Host, Admin) and the Airbnb Clone backend system. Each story follows the format: “As a [actor], I want to [action] so that [benefit].”
+The following user stories are derived from the use case diagram, in the `use-case-diagram/` folder, capturing the **core interactions** between users (Guest, Host, Admin) and the Airbnb Clone backend system. Each story follows the format: “As a [actor], I want to [action] so that [benefit].”
+
 
 1. **User Story 1**: As a Guest, I want to register an account so that I can access the platform and book properties for my travels.
 2. **User Story 2**: As a Guest, I want to search for properties by location and price so that I can find accommodations that meet my needs and budget.
