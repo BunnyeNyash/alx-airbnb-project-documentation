@@ -22,6 +22,7 @@ Core functionalities covered include:
 - **Admin**: A user who oversees users, listings, bookings, and payments.
 
 
+## Diagram
 To relate the user stories to the use case diagram:
 1. Navigate to `use-case-diagram/use-case-diagram.png` in the repository.
 2. Compare the use cases (e.g., Create Booking) with the corresponding user stories.
